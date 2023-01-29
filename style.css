@@ -6,6 +6,10 @@
     --tw: rgb(0, 208, 255);
     --ig: rgb(255, 0, 187);
     --yt: rgb(150, 0, 0);
+    --dark: #16191c;
+    --dark-x: #444444;
+    --light: #ffffff;
+    --red-x: rgb(195, 36, 36);
    
 
 
@@ -95,4 +99,49 @@ main {
     display: grid;
     width: 135px;
     
+}
+
+/* Login */
+
+.bg-login {
+    font-family: 'Poppins', sans-serif;
+    color: var(--light)
+}
+
+.bg-dark {
+    background-color: var(--dark) !important;
+}
+
+.img-fluid-icon {
+    width: 70px;
+}
+
+.title-intro-1 {
+    font-weight: 200;
+    font-size: 25px;
+    
+}
+
+.title-intro-2 {
+    font-weight: 900;
+    font-size: 60px;
+}
+
+.form-text {
+    color: var(--light);
+    font-size: 10px;
+}
+
+.font-weight-bold {
+    font-weight: 300;
+    
+}
+
+.bg-dark-x {
+    background-color: var(--dark-x);
+}
+
+.form-control, .btn {
+    min-height: 3.125rem;
+    line-height: initial;
 }
