@@ -6,10 +6,14 @@
     --tw: rgb(0, 208, 255);
     --ig: rgb(255, 0, 187);
     --yt: rgb(150, 0, 0);
+   
 
 
 }
 
+nav {
+    background-color: var(--icon);
+}
 
 h1 {
     font-family: 'Poppins';
