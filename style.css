@@ -11,8 +11,11 @@
 
 }
 
-nav {
-    background-color: var(--icon);
+.text-footer {
+    font-family: 'Poppins';
+    font-size: larger;
+    font-weight: 200;
+    color: #fff;
 }
 
 h1 {
