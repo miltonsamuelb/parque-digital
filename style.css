@@ -1,0 +1,60 @@
+:root {
+
+    font-family: 'Poppins', sans-serif;
+    --icon: #FF1919;
+    --fb: rgb(21, 0, 255);
+    --tw: rgb(0, 208, 255);
+    --ig: rgb(255, 0, 187);
+    --yt: rgb(150, 0, 0);
+
+
+}
+
+
+h1 {
+    font-family: 'Poppins';
+    font-weight: 900;
+}
+
+h4 {
+    font-family: 'Poppins';
+    font-weight: 200;
+}
+
+main {
+    font-family: 'Poppins';
+    font-weight: 100;
+}
+
+.bi-sim, .bi-phone, .bi-tv, .bi-router, .bi-telephone {
+    color: #FF1919;
+}
+
+.bi-sim-item, .bi-phone-item, .bi-tv-item, .bi-router-item, .bi-telephone-item {
+    width: 40px;
+    height: 40px;
+}
+
+.bi-facebook {
+    color: var(--fb);
+}
+
+.bi-twitter {
+    color: var(--tw)
+}
+
+.bi-instagram {
+    color: var(--ig);
+}
+
+.bi-youtube {
+    color: var(--yt);
+}
+
+.internet-res {
+    font-size: small;
+}
+
+.title-product {
+    font-weight: 200;
+}
