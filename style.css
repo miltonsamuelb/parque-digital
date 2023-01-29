@@ -84,7 +84,7 @@ main {
 
 .alert-tittle {
      background-color: var(--icon);
-     font-size: 45px;
+     font-size: 40px;
      font-weight: bold;
      color: #fff;
      text-align: center;
@@ -96,8 +96,8 @@ main {
 }
 
 .icon-alert {
-    display: grid;
-    width: 135px;
+    
+    width: 150px;
     
 }
 
