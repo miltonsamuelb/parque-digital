@@ -65,3 +65,34 @@ main {
 .title-product {
     font-weight: 200;
 }
+
+
+/* Alerta Influencer */
+
+.border-alert {
+    border: solid 3px var(--icon);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.alert-tittle {
+     background-color: var(--icon);
+     font-size: 45px;
+     font-weight: bold;
+     color: #fff;
+     text-align: center;
+     border-radius: 15px;
+     -webkit-border-radius: 15px;
+     -moz-border-radius: 15px;
+     -ms-border-radius: 15px;
+     -o-border-radius: 15px;
+}
+
+.icon-alert {
+    display: grid;
+    width: 135px;
+    
+}
